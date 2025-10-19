@@ -25,7 +25,7 @@ The admin can send messages or media to all users, and users can chat publicly w
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/telegram-broadcast-bot.git
 cd telegram-broadcast-bot
